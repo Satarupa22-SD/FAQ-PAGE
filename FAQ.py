@@ -1,5 +1,4 @@
 import streamlit as st
-import streamlit_lottie as st_lottie
 from streamlit_lottie import st_lottie
 import requests
 
